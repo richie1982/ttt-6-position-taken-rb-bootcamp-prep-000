@@ -2,3 +2,4 @@
 def position_taken?
   if board[] = " "
 end
+end
