@@ -1,4 +1,4 @@
 # code your #position_taken? method here!
-def check
-  
+def position_taken?
+  if board[] = " "
 end
